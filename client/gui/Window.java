@@ -37,11 +37,9 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 	
 	private JTextPane history;
 	private JTextField message;
-<<<<<<< HEAD
 	private JButton btnSend;
 	private JButton btnVideo;
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 	
 	private HTMLEditorKit html;
 	private HTMLDocument doc;
@@ -51,8 +49,8 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		this.username = username;
 		
 		createWindow();
+		
 		client = new Client(this, username);
-
 	}
 	
 	private void createWindow() {
@@ -66,12 +64,9 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		setLocationRelativeTo(null);
 		
 		GridBagLayout gridBagLayout = new GridBagLayout();
-		gridBagLayout.rowWeights = new double[]{1.0, 0.0};
-<<<<<<< HEAD
 		gridBagLayout.columnWeights = new double[]{1.0, 0.0, 0.0};
-=======
-		gridBagLayout.columnWeights = new double[]{1.0, 0.0};
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+		gridBagLayout.rowWeights = new double[]{1.0, 0.0};
+		
 		gridBagLayout.columnWidths = new int[]{675, 75};
 		gridBagLayout.rowHeights = new int[]{370, 30};
 		
@@ -87,15 +82,11 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		history.setDocument(doc);
 		
 		GridBagConstraints gbcHistory = new GridBagConstraints();
-<<<<<<< HEAD
-		gbcHistory.gridwidth = 3;
-=======
-		gbcHistory.gridwidth = 2;
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 		gbcHistory.insets = new Insets(5, 5, 10, 5);
 		gbcHistory.fill = GridBagConstraints.BOTH;
 		gbcHistory.gridx = 0;
 		gbcHistory.gridy = 0;
+		gbcHistory.gridwidth = 3;
 		getContentPane().add(history, gbcHistory);
 		history.setText("");
 		
@@ -108,11 +99,7 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		getContentPane().add(message, gbcMessage);
 		
 		
-<<<<<<< HEAD
 		btnSend = new JButton("Send");
-=======
-		JButton btnSend = new JButton("Send");
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 		btnSend.addActionListener(this);
 		GridBagConstraints gbcSend = new GridBagConstraints();
 		gbcSend.insets = new Insets(0, 0, 0, 5);
@@ -121,7 +108,7 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		gbcSend.gridy = 1;
 		getContentPane().add(btnSend, gbcSend);
 		
-<<<<<<< HEAD
+
 		btnVideo = new JButton("Video");
 		btnVideo.addActionListener(this);
 		GridBagConstraints gbcVideo = new GridBagConstraints();
@@ -131,8 +118,6 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		gbcVideo.gridy = 1;
 		getContentPane().add(btnVideo, gbcVideo);
 		
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 		setVisible(true);
 		requestFocus();
 		message.requestFocusInWindow();
@@ -141,7 +126,6 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 	}
 
 	public void actionPerformed(ActionEvent e) {
-<<<<<<< HEAD
 		if (e.getSource() == btnSend) {
 			if (!getClientMessage().equals("")) {
 				client.sendMessage(message.getText());
@@ -153,14 +137,7 @@ public class Window extends JFrame implements ActionListener, WindowListener {
 		if (e.getSource() == btnVideo) {
 			client.startVideoChat();
 		}
-		
-=======
-		if (!getClientMessage().equals("")) {
-			client.sendMessage(message.getText());
-			clearMessageField();
-			message.requestFocusInWindow();
-		}
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 	}
 	
 	private String getClientMessage() {

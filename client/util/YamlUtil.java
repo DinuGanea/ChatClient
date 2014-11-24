@@ -18,6 +18,7 @@ public class YamlUtil {
 	}
 	
 	
+	@SuppressWarnings("unchecked")
 	public Map<String, Object> loadYaml() throws FileNotFoundException {
 		InputStream config;
 		Yaml yaml = new Yaml();

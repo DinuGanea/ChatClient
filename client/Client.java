@@ -1,10 +1,7 @@
 package client;
 
-<<<<<<< HEAD
-import java.awt.Canvas;
+
 import java.awt.image.BufferedImage;
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.File;
@@ -13,16 +10,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.net.Socket;
-<<<<<<< HEAD
 import java.net.SocketException;
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 import java.net.UnknownHostException;
 import java.util.HashMap;
 import java.util.Map;
 
-<<<<<<< HEAD
-import org.opencv.highgui.Highgui;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -30,22 +22,12 @@ import client.camera.Camera;
 import client.camera.image.CaptureImage;
 import client.gui.Window;
 import client.gui.WindowVideoChat;
-=======
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import client.gui.Window;
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 import client.net.packets.Packet;
 import client.net.packets.Packet00Disconnect;
 import client.net.packets.Packet01Connect;
 import client.net.packets.Packet02Message;
-<<<<<<< HEAD
 import client.net.socket.tcp.SocketTCP;
 import client.net.socket.udp.SocketUDP;
-=======
-import client.net.socket.MessagesTCP;
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 import client.util.YamlUtil;
 
 public class Client {
@@ -63,7 +45,7 @@ public class Client {
 	
 	private static Map<String, Object> cfgs;
 	
-<<<<<<< HEAD
+
 	private Camera camera;
 	
 	private Socket primarySocket;
@@ -76,18 +58,7 @@ public class Client {
 	private BufferedReader input;
 	
 	private Thread receiveTCP, receiveUDP;
-=======
-	private Socket primarySocket, sendSocket;
-	private InetAddress ipAddress;
-	private int port;
-	
-	private MessagesTCP msTCP;
-	
-	private BufferedReader input;
-	
-	private Thread recieve;
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
-	
+
 	private Packet packet;
 	
 	public Client(Window clientWindow, String name) {
@@ -97,22 +68,17 @@ public class Client {
 		
 		init();
 		
-<<<<<<< HEAD
 		tcp = new SocketTCP(ipAddress, port);
-=======
-		msTCP = new MessagesTCP(ipAddress, port);
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 		
 	}
 	
 	public void disconnect() {
 		try {
 			packet = new Packet00Disconnect(username);
-<<<<<<< HEAD
+
 			tcp.sendMessage(packet.returnMessage());
-=======
-			msTCP.sendMessage(packet.returnMessage());
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 		} catch (IOException e) {
 			log.info("Error while sending disconnecting packet to server. {}", e.getMessage());
 		}
@@ -121,11 +87,8 @@ public class Client {
 	public void sendMessage(String message) {
 		packet = new Packet02Message(username, reformatMessage(message));
 		try {
-<<<<<<< HEAD
 			tcp.sendMessage(packet.returnMessage());
-=======
-			msTCP.sendMessage(packet.returnMessage());
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+			
 		} catch (IOException e) {
 			log.warn("Could not send message to server! {}", e.getMessage());
 		}
@@ -136,11 +99,8 @@ public class Client {
 		while (primarySocket.isConnected()) {
 			String message;
 			try {
-<<<<<<< HEAD
 				message = tcp.recieveMessage(input);
-=======
-				message = msTCP.recieveMessage(input);
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 				if (message != null) {
 					parseMessage(message);
 				}
@@ -149,8 +109,7 @@ public class Client {
 			}
 		}
 	}
-<<<<<<< HEAD
-	
+
 	public void receiveUDP(int dataLenght) {
 		System.out.println("UDP Server started! Ready to receive messages!");
 		while (true) {
@@ -188,9 +147,8 @@ public class Client {
 		receiveUDP.start();
 	
 	}
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
-		
+
+
 	private void parseMessage(String message) throws IOException {
 		String parts[] = message.split(",");
 		
@@ -248,20 +206,12 @@ public class Client {
 	}
 	
 	private void init() {
-<<<<<<< HEAD
-		
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 		try {
 			cfgs = loadCfg(CFG_FILE);
 
 			this.port = Integer.parseInt(cfgs.get("port") + ""); 
 			this.ipAddress = InetAddress.getByName(cfgs.get("ipAddress") + "");
-<<<<<<< HEAD
-						
-=======
-			
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 		} catch (NumberFormatException e) {
 			log.error("Invalid server port value.");
 			System.exit(2);
@@ -270,14 +220,13 @@ public class Client {
 			System.exit(3);
 		}
 		
-<<<<<<< HEAD
+
 		try {
 			udp = new SocketUDP(ipAddress, port);
 		} catch (SocketException e) {
 			log.warn("Cannot connect to server (UDP with {}:{}. {}", ipAddress, port, e.getMessage());
 		}
-=======
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
 		
 		try {
 			primarySocket = new Socket(ipAddress, port);
@@ -290,21 +239,16 @@ public class Client {
 			System.exit(4);
 		} 
 		
-<<<<<<< HEAD
+
 		receiveTCP = new Thread("TCP receiver") {
-=======
-		recieve = new Thread("RecieveMessages") {
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
 			public void run() {
 				recieveMessages();
 			}
 		};
 		
-<<<<<<< HEAD
-		receiveTCP.start();			
-=======
-		recieve.start();			
->>>>>>> bb535b0f1df9429bca47590197ae25954e6e67f6
+
+		receiveTCP.start();						
+
 	}
 
 }
