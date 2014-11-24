@@ -1,0 +1,227 @@
+2014-11-23 17:19:10,543 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "test" is trying to connect!
+2014-11-23 17:19:10,732 INFO [RecieveMessages] client.Client [Client.java:84] Connected! Recieving messages from server!
+2014-11-23 21:01:07,725 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "test" is trying to connect!
+2014-11-23 21:01:46,474 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "te1" is trying to connect!
+2014-11-23 21:01:46,678 INFO [RecieveMessages] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 21:10:33,719 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "test" is trying to connect!
+2014-11-23 21:10:33,926 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:11:37,037 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:11:37,323 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:12:34,499 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:12:34,722 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:12:59,693 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:12:59,916 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:13:28,227 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "213" is trying to connect!
+2014-11-23 22:13:28,430 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:13:45,453 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:13:45,658 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:14:44,846 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:14:45,061 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:15:55,859 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:15:56,087 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:17:03,378 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:17:03,611 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:18:01,624 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "gg" is trying to connect!
+2014-11-23 22:18:01,827 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:18:31,915 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "12" is trying to connect!
+2014-11-23 22:18:32,152 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:21:01,467 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:21:01,691 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:23:54,158 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:23:54,378 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-23 22:24:39,277 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-23 22:24:39,483 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 11:44:52,717 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "fd" is trying to connect!
+2014-11-24 11:44:53,063 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 11:45:35,096 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "gfh" is trying to connect!
+2014-11-24 11:45:35,298 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 12:06:10,960 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "215" is trying to connect!
+2014-11-24 12:06:11,198 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:08:44,810 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 12:08:45,020 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:09:06,835 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 12:09:07,034 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:10:34,640 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "sda" is trying to connect!
+2014-11-24 12:10:34,842 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:10:47,666 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "12" is trying to connect!
+2014-11-24 12:10:47,887 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:10:58,914 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 12:10:59,103 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:11:21,196 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "eqwe" is trying to connect!
+2014-11-24 12:11:21,394 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:11:31,567 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "dsa" is trying to connect!
+2014-11-24 12:11:31,768 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:11:46,490 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 12:11:46,683 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:13:06,469 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 12:13:06,673 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:13:26,131 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "324" is trying to connect!
+2014-11-24 12:13:26,357 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:13:34,388 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "dsa" is trying to connect!
+2014-11-24 12:13:34,594 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:13:41,236 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 12:13:41,441 INFO [TCP receiver] client.Client [Client.java:86] Connected! Recieving messages from server!
+2014-11-24 12:51:38,534 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "12" is trying to connect!
+2014-11-24 12:51:38,719 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 12:52:10,437 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 12:52:10,636 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 12:53:49,228 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 12:53:49,416 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 12:54:16,055 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 12:54:16,227 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 13:01:28,300 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "jkghj" is trying to connect!
+2014-11-24 13:01:28,489 INFO [TCP receiver] client.Client [Client.java:87] Connected! Recieving messages from server!
+2014-11-24 13:18:32,911 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "sad" is trying to connect!
+2014-11-24 13:18:33,115 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:19:17,142 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "132" is trying to connect!
+2014-11-24 13:19:17,342 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:20:00,757 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "213" is trying to connect!
+2014-11-24 13:20:00,967 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:20:36,503 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:20:36,682 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:20:50,797 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 13:20:51,000 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:23:28,485 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 13:23:28,666 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:23:53,767 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "213" is trying to connect!
+2014-11-24 13:23:53,990 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:24:45,633 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 13:24:45,830 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:24:58,721 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:24:58,915 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:33:26,788 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:33:26,961 WARN [AWT-EventQueue-0] client.Client [Client.java:211] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 13:33:36,255 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:33:36,443 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:34:20,906 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:34:21,087 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:42:19,091 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "33" is trying to connect!
+2014-11-24 13:42:19,290 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:42:56,026 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 13:42:56,214 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:45:54,447 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:45:54,654 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:46:50,749 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:46:50,951 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:47:26,193 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:47:26,396 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:47:46,931 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:47:47,134 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:48:42,851 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 13:48:43,062 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:49:26,498 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:49:26,675 WARN [AWT-EventQueue-0] client.Client [Client.java:234] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 13:49:36,388 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:49:36,579 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:50:05,926 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:50:06,112 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 13:56:54,343 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 13:56:54,535 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 14:00:31,935 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 14:00:32,125 WARN [AWT-EventQueue-0] client.Client [Client.java:232] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 14:00:39,358 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 14:00:39,568 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 14:01:15,285 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 14:01:15,496 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 14:01:40,144 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 14:01:40,374 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 15:50:13,304 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "213" is trying to connect!
+2014-11-24 15:50:13,507 INFO [TCP receiver] client.Client [Client.java:92] Connected! Recieving messages from server!
+2014-11-24 15:52:12,015 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 15:52:12,234 INFO [TCP receiver] client.Client [Client.java:93] Connected! Recieving messages from server!
+2014-11-24 15:55:01,257 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "32" is trying to connect!
+2014-11-24 15:55:01,426 WARN [AWT-EventQueue-0] client.Client [Client.java:238] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 15:55:10,792 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "231" is trying to connect!
+2014-11-24 15:55:10,977 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:04:32,029 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:04:32,226 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:05:17,006 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:05:17,203 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:06:20,848 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:06:21,040 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:11:08,836 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:11:09,049 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:12:11,220 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:12:11,431 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:13:42,554 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "15]" is trying to connect!
+2014-11-24 16:13:42,747 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:14:31,916 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:14:32,114 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:17:48,220 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:17:48,430 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:17:56,036 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:17:56,269 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:19:11,080 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "fd" is trying to connect!
+2014-11-24 16:19:11,292 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:19:15,736 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 16:19:15,932 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:19:21,437 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "132" is trying to connect!
+2014-11-24 16:19:21,631 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:20:10,852 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "132" is trying to connect!
+2014-11-24 16:20:11,051 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:20:17,137 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:20:17,335 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:22:19,206 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "456" is trying to connect!
+2014-11-24 16:22:19,432 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:22:23,317 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 16:22:23,532 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:22:27,851 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:22:28,049 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:23:04,220 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "213" is trying to connect!
+2014-11-24 16:23:04,433 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:23:12,533 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "dsa" is trying to connect!
+2014-11-24 16:23:12,726 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:24:06,429 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:24:06,628 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:24:56,822 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:24:57,002 WARN [AWT-EventQueue-0] client.Client [Client.java:236] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 16:25:04,337 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 16:25:04,533 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:26:10,136 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "weq" is trying to connect!
+2014-11-24 16:26:10,323 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:27:01,234 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:27:01,437 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:27:32,845 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "56" is trying to connect!
+2014-11-24 16:27:33,048 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:28:00,306 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:28:00,500 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:28:22,208 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "5" is trying to connect!
+2014-11-24 16:28:22,401 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:28:53,877 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:28:54,072 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:29:01,879 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:29:02,088 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:29:31,292 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:29:31,474 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:30:19,041 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:30:19,212 WARN [AWT-EventQueue-0] client.Client [Client.java:241] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 16:30:26,435 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:30:26,638 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:30:50,089 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:30:50,264 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:31:16,247 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:31:16,425 WARN [AWT-EventQueue-0] client.Client [Client.java:241] Cannot estabilish connection to localhost/127.0.0.1:7000.
+2014-11-24 16:31:23,315 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:31:23,520 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:33:04,635 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:33:04,857 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:33:12,234 WARN [AWT-EventQueue-0] client.Client [Client.java:89] Could not send message to server! Connection refused
+2014-11-24 16:33:14,654 WARN [AWT-EventQueue-0] client.Client [Client.java:89] Could not send message to server! Connection refused
+2014-11-24 16:33:15,808 WARN [AWT-EventQueue-0] client.Client [Client.java:89] Could not send message to server! Connection refused
+2014-11-24 16:33:17,084 INFO [AWT-EventQueue-0] client.Client [Client.java:80] Error while sending disconnecting packet to server. Connection refused
+2014-11-24 16:33:31,476 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "231" is trying to connect!
+2014-11-24 16:33:31,687 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:34:05,292 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "312" is trying to connect!
+2014-11-24 16:34:05,532 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:34:30,178 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:34:30,384 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:36:04,735 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:36:04,954 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:36:23,380 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "321" is trying to connect!
+2014-11-24 16:36:23,572 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:36:57,580 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "User" is trying to connect!
+2014-11-24 16:36:57,788 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:37:13,942 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:37:14,137 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
+2014-11-24 16:38:48,148 INFO [AWT-EventQueue-0] client.login.Login [Login.java:77] "123" is trying to connect!
+2014-11-24 16:38:48,329 INFO [TCP receiver] client.Client [Client.java:94] Connected! Recieving messages from server!
